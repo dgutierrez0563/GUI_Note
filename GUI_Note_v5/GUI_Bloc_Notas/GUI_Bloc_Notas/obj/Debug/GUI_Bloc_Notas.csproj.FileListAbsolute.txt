@@ -1,0 +1,38 @@
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe.config
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.pdb
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.csprojResolveAssemblyReference.cache
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Properties.Resources.resources
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.csproj.GenerateResource.Cache
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.exe
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.pdb
+c:\users\wsullivan\documents\visual studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form1_GUINote.resources
+C:\Users\wsullivan\Documents\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form2_Titulo.resources
+C:\Users\wsullivan\Documents\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form3_About.resources
+C:\Users\wsullivan\Documents\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form4_GuiProcesos.resources
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe.config
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.exe
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.pdb
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.pdb
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form1_GUINote.resources
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form3_About.resources
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form4_GuiProcesos.resources
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form2_Menu.resources
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe.config
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.exe
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.pdb
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.pdb
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.csprojResolveAssemblyReference.cache
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form1_GUINote.resources
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form2_Menu.resources
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form3_About.resources
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Form4_GuiProcesos.resources
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.Properties.Resources.resources
+C:\Users\wsullivan\Desktop\GUI_Note_v2\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.csproj.GenerateResource.Cache
+C:\Users\wsullivan\Desktop\GUI_Note_v4\GUI_Bloc_Notas\GUI_Bloc_Notas\bin\Debug\GUI_Bloc_Notas.exe.config
+C:\Users\wsullivan\Desktop\GUI_Note_v4\GUI_Bloc_Notas\GUI_Bloc_Notas\obj\Debug\GUI_Bloc_Notas.exe
